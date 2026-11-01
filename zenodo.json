@@ -1,0 +1,16 @@
+{
+  "upload_type": "software",
+  "title": "Analysis code for area per lipid and area compressibility modulus (KA) of mixed lipid bilayers from MD simulations",
+  "description": "<p>Analysis scripts used to compute area per lipid (APL) and area compressibility modulus (K<sub>A</sub>) from all-atom molecular dynamics simulations of mixed lipid bilayers, and to compare mixed systems against pure bilayers by two-sample t-tests. Each tagged release is archived on Zenodo.</p>",
+  "creators": [
+    {"name": "Adepoju, Stephen", "affiliation": "Northeastern University"},
+    {"name": "Hung, Francisco R.", "affiliation": "Northeastern University"}
+  ],
+  "license": "MIT",
+  "keywords": ["molecular dynamics", "lipid bilayers", "liposomes", "area compressibility modulus", "area per lipid", "drug delivery"],
+  "related_identifiers": [
+    {"identifier": "10.5281/zenodo.23850654", "relation": "isSupplementTo", "resource_type": "dataset", "scheme": "doi"},
+    {"identifier": "10.5281/zenodo.23850541", "relation": "isSupplementTo", "resource_type": "dataset", "scheme": "doi"},
+    {"identifier": "10.1021/acs.langmuir.4c04363", "relation": "isSupplementTo", "resource_type": "publication-article", "scheme": "doi"}
+  ]
+}
