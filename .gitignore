@@ -1,0 +1,21 @@
+# Simulation files (too large for git)
+*.xtc
+*.trr
+*.edr
+*.tpr
+*.gro
+*.cpt
+*.log
+# Generated output
+results/
+*.png
+*.pdf
+*.dat
+*.xvg
+!papers/**/data/*.csv
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.DS_Store
