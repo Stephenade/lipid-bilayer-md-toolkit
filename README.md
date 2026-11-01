@@ -1,5 +1,7 @@
 # Lipid bilayer MD analysis toolkit
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23851716.svg)](https://doi.org/10.5281/zenodo.23851716)
+
 Analysis code for all-atom molecular dynamics (MD) simulations of mixed lipid
 bilayers, used to design mechanically tuned liposomal drug carriers. It
 computes the area compressibility modulus (K<sub>A</sub>), area per lipid,
@@ -57,7 +59,7 @@ python plot_ka_groups.py
 | Record | DOI |
 |---|---|
 | K<sub>A</sub> and APL dataset for the sn-1/sn-2 study (Zenodo) | [10.5281/zenodo.23850654](https://doi.org/10.5281/zenodo.23850654) |
-| This software (Zenodo, all versions) | added on first release |
+| This software (Zenodo, all versions) | [10.5281/zenodo.23851716](https://doi.org/10.5281/zenodo.23851716) |
 
 If you use this code, please cite it using the metadata in
 [`CITATION.cff`](CITATION.cff) (GitHub shows a *Cite this repository* button),
